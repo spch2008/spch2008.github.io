@@ -1,5 +1,5 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: SPCH2008 BLOG
+description: spch2008's blog
 
 url: http://spch2008.github.io
 baseurl: ""
@@ -20,9 +20,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: spch2008
+   twitter: spch2008
+   facebook: spch2008
+   email: spch2008@foxmail.com
 
-google_analytics: "UA-58263416-1"
+#google_analytics: "UA-58263416-1"
