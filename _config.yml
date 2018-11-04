@@ -26,3 +26,7 @@ social:
    email: spch2008@foxmail.com
 
 #google_analytics: "UA-58263416-1"
+
+sidebar: true
+featured-tags: true  
+featured-condition-size: 0
