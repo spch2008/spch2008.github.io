@@ -21,10 +21,12 @@ export MALLOC_CONF="prof:true",lg_prof_interval:30,lg_prof_sample:17
     
     
 ## Run Program
+<img src="{{ '/assets/img/heap.png' | prepend: site.baseurl }}" alt=""> 
 
 
 ## Gen pdf
 ./jemalloc/bin/jeprof --show_bytes --pdf /home/a.out /home/jeprof.15790.1.i1.heap > /tmp/call.pdf
 
-<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/malloc.png' | prepend: site.baseurl }}" alt=""> 
+
 
