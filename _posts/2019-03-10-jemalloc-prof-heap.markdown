@@ -7,10 +7,12 @@ tags:
 ---
 
 ## Install Jemalloc
--bash autogen.sh
--./configure --enable_prof
--make
--make install
+
+    -  bash autogen.sh
+    -  ./configure --enable_prof
+    -  make
+    -  make install
+
 
 我的小窝，记录点点滴滴。
 
